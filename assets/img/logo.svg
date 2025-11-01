@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40">
+  <rect rx="8" width="40" height="40" fill="#4dd2a7"/>
+  <path d="M10 24 l6-14 h4 l6 14 h-4 l-1.2-3.2 h-5.5 L14.7 24 Z M16.8 17.7 h3.9 l-1.9-5 z" fill="#0b0d11"/>
+  <text x="50" y="26" font-family="Segoe UI, Arial" font-size="18" fill="#e9eef5">Jay Diamond</text>
+</svg>
